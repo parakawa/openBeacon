@@ -1,0 +1,21 @@
+.custom_users_table {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.table-title {
+  text-align: center;
+}
+
+.next_navigation_register {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  padding: 1.5em;
+}
+
+.btn__navigation {
+  height: 40px;
+  margin-left: 0.5em;
+  width: 40px;
+}
