@@ -1,33 +1,53 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_8a04123f1985fc11a212.js"
-  ],
+  "devFiles": [],
   "pages": {
-    "/_app": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/css/styles.f36e7516.chunk.css",
+      "static/chunks/styles.5dab8e2a0da4cf140a96.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
+    ],
+    "/register/FormRegisterUser": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
     ],
     "/register": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/css/styles.f36e7516.chunk.css",
+      "static/chunks/styles.5dab8e2a0da4cf140a96.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
+    ],
+    "/register/UploadPhotoUser": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
+    ],
+    "/users": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/css/styles.f36e7516.chunk.css",
+      "static/chunks/styles.5dab8e2a0da4cf140a96.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
     ],
     "/": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-89179faa512dd01fbb62.js",
+      "static/chunks/commons.5a9c7719c9dfa7791492.js",
+      "static/css/styles.f36e7516.chunk.css",
+      "static/chunks/styles.5dab8e2a0da4cf140a96.js",
+      "static/runtime/main-f6feb7cc0b948d74e05f.js"
     ]
   }
 }
