@@ -104,6 +104,8 @@
 }
 
 .btn__navigation {
+  background-color: #f56748;
+  color: white;
   height: 40px;
   margin-left: 0.5em;
   width: 40px;

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "cd src && next",
     "build": "next build",
     "start": "next start"
   },
@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "next": "^7.0.2",
+    "next-images": "^1.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-table": "^6.8.6"

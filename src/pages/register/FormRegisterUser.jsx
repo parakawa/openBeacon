@@ -26,7 +26,7 @@ export const FormRegisterUser = props => (
         <input type="text" name="nroDni" required />
       </div>
       <div className="item_form_input">
-        <input type="text" name="code" required />
+        <input type="text" name="code" value="U00000011" required />
       </div>
       <div className="item_form_input">
         <input type="text" name="initTime" required />
