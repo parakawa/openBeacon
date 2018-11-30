@@ -229,6 +229,7 @@ var FormRegisterUser = function FormRegisterUser(props) {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
     type: "text",
     name: "code",
+    value: "U00000011",
     required: true,
     __source: {
       fileName: _jsxFileName,
@@ -337,6 +338,12 @@ function (_PureComponent) {
           lineNumber: 6
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 7
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "/static/Images/man.svg",
         alt: "avatar",
@@ -344,10 +351,18 @@ function (_PureComponent) {
         height: "120",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 7
+          lineNumber: 8
         },
         __self: this
-      }));
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+        type: "button",
+        className: "btn",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15
+        },
+        __self: this
+      }, "Cambiar foto"));
     }
   }]);
 
