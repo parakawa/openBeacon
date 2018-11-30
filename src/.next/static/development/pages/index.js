@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
 
 /***/ "../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
 /*!************************************************************************!*\
@@ -6953,12 +6953,12 @@ module.exports = __webpack_require__(/*! ./dist/lib/link */ "../node_modules/nex
 
 /***/ "../node_modules/object-assign/index.js":
 /*!****************************************************************************************************!*\
-  !*** delegated ../node_modules/object-assign/index.js from dll-reference dll_ee9d4a7a184141617c80 ***!
+  !*** delegated ../node_modules/object-assign/index.js from dll-reference dll_ad6cbc95ad80a06c5e49 ***!
   \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ee9d4a7a184141617c80 */ "dll-reference dll_ee9d4a7a184141617c80"))("../node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ad6cbc95ad80a06c5e49 */ "dll-reference dll_ad6cbc95ad80a06c5e49"))("../node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -7406,12 +7406,12 @@ module.exports = exports['default'];
 
 /***/ "../node_modules/prop-types/checkPropTypes.js":
 /*!**********************************************************************************************************!*\
-  !*** delegated ../node_modules/prop-types/checkPropTypes.js from dll-reference dll_ee9d4a7a184141617c80 ***!
+  !*** delegated ../node_modules/prop-types/checkPropTypes.js from dll-reference dll_ad6cbc95ad80a06c5e49 ***!
   \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ee9d4a7a184141617c80 */ "dll-reference dll_ee9d4a7a184141617c80"))("../node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ad6cbc95ad80a06c5e49 */ "dll-reference dll_ad6cbc95ad80a06c5e49"))("../node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -8019,12 +8019,12 @@ if (true) {
 
 /***/ "../node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!********************************************************************************************************************!*\
-  !*** delegated ../node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_ee9d4a7a184141617c80 ***!
+  !*** delegated ../node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_ad6cbc95ad80a06c5e49 ***!
   \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ee9d4a7a184141617c80 */ "dll-reference dll_ee9d4a7a184141617c80"))("../node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ad6cbc95ad80a06c5e49 */ "dll-reference dll_ad6cbc95ad80a06c5e49"))("../node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -10957,12 +10957,12 @@ function normalizeComponent(Comp) {
 
 /***/ "../node_modules/react/index.js":
 /*!********************************************************************************************!*\
-  !*** delegated ../node_modules/react/index.js from dll-reference dll_ee9d4a7a184141617c80 ***!
+  !*** delegated ../node_modules/react/index.js from dll-reference dll_ad6cbc95ad80a06c5e49 ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ee9d4a7a184141617c80 */ "dll-reference dll_ee9d4a7a184141617c80"))("../node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ad6cbc95ad80a06c5e49 */ "dll-reference dll_ad6cbc95ad80a06c5e49"))("../node_modules/react/index.js");
 
 /***/ }),
 
@@ -12631,7 +12631,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _component_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./component.css */ "./Components/component.css");
 /* harmony import */ var _component_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_component_css__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\TkDev\\Documents\\workspace\\openBeacon\\src\\Components\\Layout.jsx";
+var _jsxFileName = "/home/patty/Makerlab/beacon/src/Components/Layout.jsx";
 
 
 var Layout = function Layout(props) {
@@ -12667,7 +12667,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _users___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./users/ */ "./pages/users/index.jsx");
 /* harmony import */ var _main_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./main.css */ "./pages/main.css");
 /* harmony import */ var _main_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_main_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\TkDev\\Documents\\workspace\\openBeacon\\src\\pages\\index.jsx";
+var _jsxFileName = "/home/patty/Makerlab/beacon/src/pages/index.jsx";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -12760,7 +12760,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../Components/Layout */ "./Components/Layout.jsx");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./style.css */ "./pages/users/style.css");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_style_css__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\TkDev\\Documents\\workspace\\openBeacon\\src\\pages\\users\\index.jsx";
+var _jsxFileName = "/home/patty/Makerlab/beacon/src/pages/users/index.jsx";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -12943,7 +12943,7 @@ function (_Component) {
           next.router.update(r, Component)
         }
       }
-    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/users\\index")
+    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/users")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../node_modules/webpack/buildin/harmony-module.js */ "../node_modules/webpack/buildin/harmony-module.js")(module)))
 
@@ -12963,14 +12963,14 @@ return { page: module.exports.default }});
 
 /***/ }),
 
-/***/ "dll-reference dll_ee9d4a7a184141617c80":
+/***/ "dll-reference dll_ad6cbc95ad80a06c5e49":
 /*!*******************************************!*\
-  !*** external "dll_ee9d4a7a184141617c80" ***!
+  !*** external "dll_ad6cbc95ad80a06c5e49" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_ee9d4a7a184141617c80;
+module.exports = dll_ad6cbc95ad80a06c5e49;
 
 /***/ })
 

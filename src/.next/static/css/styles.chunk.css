@@ -4,6 +4,42 @@
   font-family: 'Open Sans', sans-serif;
   padding: 20px 30px;
 }
+.custom_users_table {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.table-title {
+  text-align: center;
+}
+
+.next_navigation_register {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  padding: 1.5em;
+}
+
+.btn__navigation {
+  background-color: #f56748;
+  color: white;
+  height: 40px;
+  margin-left: 0.5em;
+  width: 40px;
+}
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
 .container__register__user {
   display: grid;
   grid-template-areas:
@@ -86,42 +122,6 @@
 .form__avatar {
   grid-area: avatar;
   justify-self: center;
-}
-.custom_users_table {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-}
-
-.table-title {
-  text-align: center;
-}
-
-.next_navigation_register {
-  align-items: center;
-  display: flex;
-  justify-content: flex-end;
-  padding: 1.5em;
-}
-
-.btn__navigation {
-  background-color: #f56748;
-  color: white;
-  height: 40px;
-  margin-left: 0.5em;
-  width: 40px;
-}
-*,
-*::before,
-*::after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-html,
-body {
-  margin: 0;
-  height: 100%;
 }
 
 /*# sourceMappingURL=styles.chunk.css.map*/
